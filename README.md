@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dineth, a full-stack developer 👨‍💻 web scraper 🚀</div>  
+### <div align="center">I'm Dineth, a full-stack developer 👨‍💻, a python developer 🚀</div>  
   
 
 - 🔭 I’m currently working on Web dev  
