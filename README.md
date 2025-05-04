@@ -6,13 +6,13 @@
 ### <div align="center">I'm Dineth, a full-stack developer 👨‍💻, a python developer 🚀</div>  
   
 
-- 🔭 I’m currently working on Web dev  
+- 🔭 I’m currently working on Python dev  
   
 
 - 🌱 I’m currently learning Microservices  
   
 
-- ❓ Ask me about anything related to React  
+- ❓ Ask me about anything related to Python  
   
 
 - ⚡ Git fun facts happening in here  
