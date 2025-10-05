@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python dev<br><br>🌱 I’m currently learning Microservices<br><br>❓ Ask me about anything related to Python<br><br>⚡ Git fun facts happening in here<br><br>
+🔭 I’m currently working on Python dev<br><br>🌱 I’m currently learning PySpark<br><br>❓ Ask me about anything related to Python<br><br>⚡ Git fun facts happening in here<br><br>
 
 
 ## 🌐 Socials:
